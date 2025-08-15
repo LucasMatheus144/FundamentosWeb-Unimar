@@ -1,5 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using Unimar.Console.Interface;
+﻿using Unimar.Console.Interface;
 using Unimar.Console.ValuesObjects;
 
 namespace Unimar.Console.Entities

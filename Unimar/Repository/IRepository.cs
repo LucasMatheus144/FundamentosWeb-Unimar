@@ -6,7 +6,7 @@
 
         void Salvar(object model);
 
-        void Excluir(int id);
+        void Excluir(object model);
 
         T BuscarPorId<T>(int id) where T : class;
 

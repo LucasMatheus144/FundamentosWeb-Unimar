@@ -14,7 +14,7 @@ namespace Unimar.Console.Services
         private readonly SigningCredentials _creds;
         private readonly string _user;
         private readonly string _aplication;
-
+        
         public AuthService(IOptions<Auth> opt)
         {
             _opt = opt.Value;

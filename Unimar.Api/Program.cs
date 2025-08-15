@@ -1,15 +1,22 @@
 
+using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.IdentityModel.Tokens;
-using System.Text;
+using Unimar.Console.DtoModels;
 using Unimar.Console.Entities;
+using Unimar.Console.Repository;
+using Unimar.Console.Repository.Implementation;
 using Unimar.Console.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.Configure<Auth>(builder.Configuration.GetSection("Jwt"));
 builder.Services.AddScoped<AuthService>();
+builder.Services.AddScoped<ValidatorService>();
+builder.Services.AddScoped<RepositoryMemory>();
+builder.Services.AddScoped<SalaService>();
+
 
 var jwtSection = builder.Configuration.GetSection("Jwt").Get<Auth>()!;
 var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSection.Token));
@@ -30,6 +37,19 @@ builder.Services
             ValidAudience = jwtSection.Aplication,
             ValidateLifetime = true,
             ClockSkew = TimeSpan.Zero
+        };
+        o.Events = new JwtBearerEvents
+        {
+            OnAuthenticationFailed = async ctx =>
+            {
+                var msg = ctx.Exception is SecurityTokenExpiredException
+                    ? "Token expirado"
+                    : "Token inválido";
+
+                ctx.Response.StatusCode = StatusCodes.Status401Unauthorized;
+                ctx.Response.ContentType = "application/json; charset=utf-8";
+                await ctx.Response.WriteAsJsonAsync(ResultOperation.Falha("Authorization", msg));
+            }
         };
     });
 

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar\\Unimar.Console.csproj": {}
+    "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Unimar.Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar\\Unimar.Console.csproj": {
+    "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Unimar.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar\\Unimar.Console.csproj",
+        "projectUniqueName": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Unimar.Console.csproj",
         "projectName": "Unimar.Console",
-        "projectPath": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar\\Unimar.Console.csproj",
-        "packagesPath": "C:\\Users\\lumet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar\\obj\\",
+        "projectPath": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Unimar.Console.csproj",
+        "packagesPath": "C:\\Users\\Interfocus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lumet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Interfocus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

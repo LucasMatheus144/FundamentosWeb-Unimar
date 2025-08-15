@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\",
+  "WorkspaceRootPath": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA9476A3-84B3-43D8-BE22-3CE50B7330D8}|Unimar.Api\\Unimar.Api.csproj|c:\\users\\lumet\\projetointerfocus\\projeto-interfocus\\fundamentosweb\\unimar.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9476A3-84B3-43D8-BE22-3CE50B7330D8}|Unimar.Api\\Unimar.Api.csproj|solutionrelative:unimar.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\interfocus\\fundamentosweb-unimar\\unimar\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\lumet\\projetointerfocus\\projeto-interfocus\\fundamentosweb\\unimar\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\interfocus\\fundamentosweb-unimar\\unimar\\dtomodels\\dtoalunocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\dtomodels\\dtoalunocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\lumet\\projetointerfocus\\projeto-interfocus\\fundamentosweb\\unimar\\entities\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\entities\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\interfocus\\fundamentosweb-unimar\\unimar\\entities\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\entities\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9476A3-84B3-43D8-BE22-3CE50B7330D8}|Unimar.Api\\Unimar.Api.csproj|c:\\users\\lumet\\projetointerfocus\\projeto-interfocus\\fundamentosweb\\unimar.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9476A3-84B3-43D8-BE22-3CE50B7330D8}|Unimar.Api\\Unimar.Api.csproj|solutionrelative:unimar.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\lumet\\projetointerfocus\\projeto-interfocus\\fundamentosweb\\unimar\\interface\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\interface\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9476A3-84B3-43D8-BE22-3CE50B7330D8}|Unimar.Api\\Unimar.Api.csproj|c:\\users\\lumet\\projetointerfocus\\projeto-interfocus\\fundamentosweb\\unimar.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CA9476A3-84B3-43D8-BE22-3CE50B7330D8}|Unimar.Api\\Unimar.Api.csproj|solutionrelative:unimar.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\interfocus\\fundamentosweb-unimar\\unimar\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 683,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,79 +47,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Unimar\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar\\Services\\AuthService.cs",
-              "RelativeToolTip": "Unimar\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Title": "DtoAlunoCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\DtoModels\\DtoAlunoCreate.cs",
+              "RelativeDocumentMoniker": "Unimar\\DtoModels\\DtoAlunoCreate.cs",
+              "ToolTip": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\DtoModels\\DtoAlunoCreate.cs",
+              "RelativeToolTip": "Unimar\\DtoModels\\DtoAlunoCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T02:24:15.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Unimar.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Unimar.Api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-15T02:22:34.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Auth.cs",
-              "DocumentMoniker": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar\\Entities\\Auth.cs",
-              "RelativeDocumentMoniker": "Unimar\\Entities\\Auth.cs",
-              "ToolTip": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar\\Entities\\Auth.cs",
-              "RelativeToolTip": "Unimar\\Entities\\Auth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T02:22:14.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAuth.cs",
-              "DocumentMoniker": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar\\Interface\\IAuth.cs",
-              "RelativeDocumentMoniker": "Unimar\\Interface\\IAuth.cs",
-              "ToolTip": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar\\Interface\\IAuth.cs",
-              "RelativeToolTip": "Unimar\\Interface\\IAuth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T02:22:11.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Unimar.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar.Api\\Program.cs",
-              "RelativeToolTip": "Unimar.Api\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T02:19:01.021Z",
+              "WhenOpened": "2025-08-15T19:51:25.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar.Api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Unimar.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar.Api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Unimar.Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Entities\\Aluno.cs",
+              "RelativeDocumentMoniker": "Unimar\\Entities\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Entities\\Aluno.cs",
+              "RelativeToolTip": "Unimar\\Entities\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T02:17:54.645Z",
+              "WhenOpened": "2025-08-15T19:51:12.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Entities\\Sala.cs",
+              "RelativeDocumentMoniker": "Unimar\\Entities\\Sala.cs",
+              "ToolTip": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Entities\\Sala.cs",
+              "RelativeToolTip": "Unimar\\Entities\\Sala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T19:49:54.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "Unimar\\Services\\AlunoService.cs",
+              "ToolTip": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Services\\AlunoService.cs",
+              "RelativeToolTip": "Unimar\\Services\\AlunoService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T19:42:12.17Z",
               "EditorCaption": ""
             }
           ]

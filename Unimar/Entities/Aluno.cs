@@ -9,5 +9,6 @@ namespace Unimar.Console.Entities
         public string Email { get; set; }
         public DateTime DataNascimento { get; set; }
         public string CPF { get; set; }
+        public Sala Sala { get; set; }
     }
 }
