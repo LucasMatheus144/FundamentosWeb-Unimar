@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Unimar.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ead1dd40ae99fb3201dc2a85d32e14400e9dfc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88b020218407a0f42de1d4f0782ee947506114bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Unimar.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Unimar.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

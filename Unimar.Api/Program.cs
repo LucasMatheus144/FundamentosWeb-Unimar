@@ -1,11 +1,10 @@
 
-using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.IdentityModel.Tokens;
+using System.Text;
 using Unimar.Console.DtoModels;
 using Unimar.Console.Entities;
-using Unimar.Console.Repository;
 using Unimar.Console.Repository.Implementation;
 using Unimar.Console.Services;
 
@@ -16,6 +15,7 @@ builder.Services.AddScoped<AuthService>();
 builder.Services.AddScoped<ValidatorService>();
 builder.Services.AddScoped<RepositoryMemory>();
 builder.Services.AddScoped<SalaService>();
+builder.Services.AddScoped<AlunoService>();
 
 
 var jwtSection = builder.Configuration.GetSection("Jwt").Get<Auth>()!;

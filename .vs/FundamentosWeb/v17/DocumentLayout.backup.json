@@ -1,28 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\interfocus\\fundamentosweb-unimar\\unimar\\repository\\implementation\\repositorymemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\repository\\implementation\\repositorymemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\interfocus\\fundamentosweb-unimar\\unimar\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\interfocus\\fundamentosweb-unimar\\unimar\\services\\salaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\services\\salaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\interfocus\\fundamentosweb-unimar\\unimar\\services\\validatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\services\\validatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9476A3-84B3-43D8-BE22-3CE50B7330D8}|Unimar.Api\\Unimar.Api.csproj|c:\\users\\interfocus\\fundamentosweb-unimar\\unimar.api\\controllers\\salacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9476A3-84B3-43D8-BE22-3CE50B7330D8}|Unimar.Api\\Unimar.Api.csproj|solutionrelative:unimar.api\\controllers\\salacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 683,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,71 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Repository\\IRepository.cs",
-              "RelativeDocumentMoniker": "Unimar\\Repository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Repository\\IRepository.cs*",
-              "RelativeToolTip": "Unimar\\Repository\\IRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T18:36:29.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RepositoryMemory.cs",
-              "DocumentMoniker": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Repository\\Implementation\\RepositoryMemory.cs",
-              "RelativeDocumentMoniker": "Unimar\\Repository\\Implementation\\RepositoryMemory.cs",
-              "ToolTip": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Repository\\Implementation\\RepositoryMemory.cs*",
-              "RelativeToolTip": "Unimar\\Repository\\Implementation\\RepositoryMemory.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAA5wB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T17:22:06.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SalaController.cs",
-              "DocumentMoniker": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar.Api\\Controllers\\SalaController.cs",
-              "RelativeDocumentMoniker": "Unimar.Api\\Controllers\\SalaController.cs",
-              "ToolTip": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar.Api\\Controllers\\SalaController.cs*",
-              "RelativeToolTip": "Unimar.Api\\Controllers\\SalaController.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T16:29:52.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ValidatorService.cs",
-              "DocumentMoniker": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Services\\ValidatorService.cs",
-              "RelativeDocumentMoniker": "Unimar\\Services\\ValidatorService.cs",
-              "ToolTip": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Services\\ValidatorService.cs",
-              "RelativeToolTip": "Unimar\\Services\\ValidatorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T16:23:56.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SalaService.cs",
-              "DocumentMoniker": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Services\\SalaService.cs",
-              "RelativeDocumentMoniker": "Unimar\\Services\\SalaService.cs",
-              "ToolTip": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Services\\SalaService.cs",
-              "RelativeToolTip": "Unimar\\Services\\SalaService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T14:41:12.617Z",
-              "EditorCaption": ""
             }
           ]
         }

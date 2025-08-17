@@ -10,9 +10,6 @@ C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\bi
 C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\bin\Debug\net8.0\Unimar.Api.dll
 C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\bin\Debug\net8.0\Unimar.Api.pdb
 C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
 C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
@@ -103,3 +100,7 @@ C:\Users\Interfocus\FundamentosWeb-Unimar\Unimar.Api\obj\Debug\net8.0\refint\Uni
 C:\Users\Interfocus\FundamentosWeb-Unimar\Unimar.Api\obj\Debug\net8.0\Unimar.Api.pdb
 C:\Users\Interfocus\FundamentosWeb-Unimar\Unimar.Api\obj\Debug\net8.0\Unimar.Api.genruntimeconfig.cache
 C:\Users\Interfocus\FundamentosWeb-Unimar\Unimar.Api\obj\Debug\net8.0\ref\Unimar.Api.dll
+C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\obj\Debug\net8.0\Unimar.Api.sourcelink.json
+C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll

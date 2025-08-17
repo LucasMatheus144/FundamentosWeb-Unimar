@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Unimar.Api.Controllers.AlunoController",
+    "Method": "Incluir",
+    "RelativePath": "api/Aluno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aluno",
+        "Type": "Unimar.Console.DtoModels.DtoAlunoCreate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Unimar.Api.Controllers.AuthController",
     "Method": "GenerateToken",
     "RelativePath": "api/Auth/token",
@@ -37,6 +53,22 @@
   },
   {
     "ContainingType": "Unimar.Api.Controllers.SalaController",
+    "Method": "Excluir",
+    "RelativePath": "api/Sala",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Unimar.Api.Controllers.SalaController",
     "Method": "Atualizar",
     "RelativePath": "api/Sala",
     "HttpMethod": "PUT",
@@ -56,22 +88,6 @@
     "Method": "BuscarPorId",
     "RelativePath": "api/Sala/{id}",
     "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Unimar.Api.Controllers.SalaController",
-    "Method": "Excluir",
-    "RelativePath": "api/Sala/{id}",
-    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [

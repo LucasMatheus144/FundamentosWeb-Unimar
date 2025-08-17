@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\",
+  "WorkspaceRootPath": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\interfocus\\fundamentosweb-unimar\\unimar\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\interfocus\\fundamentosweb-unimar\\unimar\\dtomodels\\dtoalunocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\dtomodels\\dtoalunocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\interfocus\\fundamentosweb-unimar\\unimar\\entities\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\entities\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\interfocus\\fundamentosweb-unimar\\unimar\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|c:\\users\\lumet\\projetointerfocus\\projeto-interfocus\\fundamentosweb\\unimar\\services\\salaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF7C58B-CC89-4FB2-8777-A81AD3D6AD40}|Unimar\\Unimar.Console.csproj|solutionrelative:unimar\\services\\salaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 683,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,54 +34,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DtoAlunoCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\DtoModels\\DtoAlunoCreate.cs",
-              "RelativeDocumentMoniker": "Unimar\\DtoModels\\DtoAlunoCreate.cs",
-              "ToolTip": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\DtoModels\\DtoAlunoCreate.cs",
-              "RelativeToolTip": "Unimar\\DtoModels\\DtoAlunoCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T19:51:25.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Entities\\Aluno.cs",
-              "RelativeDocumentMoniker": "Unimar\\Entities\\Aluno.cs",
-              "ToolTip": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Entities\\Aluno.cs",
-              "RelativeToolTip": "Unimar\\Entities\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T19:51:12.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Sala.cs",
-              "DocumentMoniker": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Entities\\Sala.cs",
-              "RelativeDocumentMoniker": "Unimar\\Entities\\Sala.cs",
-              "ToolTip": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Entities\\Sala.cs",
-              "RelativeToolTip": "Unimar\\Entities\\Sala.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T19:49:54.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AlunoService.cs",
-              "DocumentMoniker": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Services\\AlunoService.cs",
-              "RelativeDocumentMoniker": "Unimar\\Services\\AlunoService.cs",
-              "ToolTip": "C:\\Users\\Interfocus\\FundamentosWeb-Unimar\\Unimar\\Services\\AlunoService.cs",
-              "RelativeToolTip": "Unimar\\Services\\AlunoService.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "Title": "SalaService.cs",
+              "DocumentMoniker": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar\\Services\\SalaService.cs",
+              "RelativeDocumentMoniker": "Unimar\\Services\\SalaService.cs",
+              "ToolTip": "C:\\Users\\lumet\\ProjetoInterfocus\\Projeto-Interfocus\\FundamentosWeb\\Unimar\\Services\\SalaService.cs",
+              "RelativeToolTip": "Unimar\\Services\\SalaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T19:42:12.17Z",
+              "WhenOpened": "2025-08-17T22:17:02.182Z",
               "EditorCaption": ""
             }
           ]

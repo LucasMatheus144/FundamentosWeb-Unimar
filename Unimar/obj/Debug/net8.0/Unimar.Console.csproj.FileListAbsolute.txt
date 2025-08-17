@@ -51,3 +51,4 @@ C:\Users\Interfocus\FundamentosWeb-Unimar\Unimar\obj\Debug\net8.0\refint\Unimar.
 C:\Users\Interfocus\FundamentosWeb-Unimar\Unimar\obj\Debug\net8.0\Unimar.Console.pdb
 C:\Users\Interfocus\FundamentosWeb-Unimar\Unimar\obj\Debug\net8.0\Unimar.Console.genruntimeconfig.cache
 C:\Users\Interfocus\FundamentosWeb-Unimar\Unimar\obj\Debug\net8.0\ref\Unimar.Console.dll
+C:\Users\lumet\ProjetoInterfocus\Projeto-Interfocus\FundamentosWeb\Unimar\obj\Debug\net8.0\Unimar.Console.sourcelink.json
